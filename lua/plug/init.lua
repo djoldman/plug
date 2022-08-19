@@ -1,2 +1,2 @@
--- print("super times")
+print("super times")
 return "super times"
